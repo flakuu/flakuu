@@ -1,7 +1,9 @@
 - 👋 Siema! Jestem flaku
 - 👀 Jestem amatorem programowania w technologiach Frontendowych
+- 📈 Potrafię pracować w HTML, CSS, PHP, jS oraz MySQL
 - 🌱 Aktualnie uczę się JavaScript
-- 💞️ Planuję naukę frameworków JS takich jak React, NextJS, czy ElysiaJS
+- 💞️ Rozpocząłem także naukę Frameworków JS takich jak React, NextJS, czy ElysiaJS
+- 📨 W przyszłości chce również zająć się innymi językami takimi jak C#
 - 📫 Kontakt discord: flaku._.
 
 <!---
